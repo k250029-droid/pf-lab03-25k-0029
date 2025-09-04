@@ -1,2 +1,9 @@
 # pf-lab03-25k-0029
-class tasks
+
+### Myself
+
+**Name:** Abdul Farid  
+**Degree Program:** BSAI  
+**Hobby:**  
+- Futsal  
+- Driving
