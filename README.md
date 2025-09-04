@@ -4,7 +4,7 @@
 
 **Name:** Abdul Farid  
 **Degree Program:** BSAI  
-**Institute:** FAST
+**Institute:** FAST  
 **Hobby:**  
 - Futsal  
 - Driving
