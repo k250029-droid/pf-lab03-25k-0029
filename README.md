@@ -3,8 +3,9 @@
 ### Myself:
 
 **Name:** Abdul Farid  
-**Degree Program:** BSAI  
+**Degree Program:* BSAI  
 **Institute:** FAST  
+unordered list  
 **Hobby:**  
 - Futsal  
 - Driving
